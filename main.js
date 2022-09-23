@@ -6,7 +6,7 @@ const menuHamIcon = document.querySelector(".menu");
 const mobileMenu = document.querySelector(".mobile-menu");
 /* SHOPPING CART */
 const shoppingCartIcon = document.querySelector(".navbar-shopping-cart");
-const shoppingCart= document.querySelector(".product-detail");
+const shoppingCart= document.querySelector("#shoppingCartContainer");
 
 /* CARDS CONTAINER */
 const cardsContainer= document.querySelector(".cards-container");
